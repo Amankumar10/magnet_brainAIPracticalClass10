@@ -4,12 +4,6 @@
 # one can process images and videos to identify objects, faces, or even the handwriting of a human.
 
 
-
-
-
-
-
-
 import cv2
 #syntax 
 #img = cv2.imread(path,flag)
